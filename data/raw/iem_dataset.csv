@@ -1,0 +1,6 @@
+age,sex,amino_acid_level1,amino_acid_level2,organic_acid_level1,organic_acid_level2,diagnosis
+3,M,12.5,7.8,15.2,8.7,Phenylketonuria
+5,F,10.2,6.4,11.8,7.5,Maple Syrup Urine Disease
+7,M,13.0,8.2,12.3,6.9,Phenylketonuria
+2,F,11.0,7.1,14.5,9.1,Methylmalonic Acidemia
+4,M,9.8,5.9,10.1,6.7,Maple Syrup Urine Disease

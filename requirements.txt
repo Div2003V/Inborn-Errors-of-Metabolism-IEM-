@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+jupyterlab        # If you’re prototyping in notebooks
+argparse          # For custom CLI arguments in main.py
